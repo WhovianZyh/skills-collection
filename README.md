@@ -7,7 +7,7 @@
 1. [nature skills](https://github.com/Yuan1z0825/nature-skills) 
 2. [superpowers](https://github.com/obra/superpowers)
 3. [ppt-master](https://github.com/hugohe3/ppt-master)
-## 项目简介：MiniMax-AI/skills
+
 
 
 
