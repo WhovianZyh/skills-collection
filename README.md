@@ -4,10 +4,10 @@
 
 ## 当前收录
 
-1. [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills)
-
+1. [nature skills](https://github.com/Yuan1z0825/nature-skills) 
+2. [superpowers](https://github.com/obra/superpowers)
+3. [ppt-master](https://github.com/hugohe3/ppt-master)
 ## 项目简介：MiniMax-AI/skills
 
-[MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) 是一个由 MiniMax-AI 维护的 Skills 集合仓库，主要用于沉淀和复用常见任务能力。  
-它适合作为技能清单的参考来源，帮助你按场景挑选、整理并持续积累实用 Skills。
+
 
